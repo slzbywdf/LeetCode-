@@ -22,18 +22,27 @@
 
 ## 引用
 > 这里是引用
+>
+>> 嵌套引用
+>
 
 ## 图片和链接
 ```
 图片![]()
 链接[]()
 ```
-[Baidu][http://baidu.com]
+[Baidu](http://baidu.com)
 ![Mou_icon](http://mouapp.com/Mou_128.png)
 
 ## 粗体和斜体
-** 粗体
-* 斜体
+**粗体**
+*斜体*
+
+## 强调
+*single*
+_single_
+**single**
+__single__
 
 ## 表格
 | Tables | Are |
@@ -66,5 +75,5 @@
     </tr>
 </table>
 
-这是另一个普通段落。
+这是另一个<del>普通<\del>段落。
 
